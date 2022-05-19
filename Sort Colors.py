@@ -1,4 +1,3 @@
-#0=>res ,1=>white ,2=>blue
 def sortColors(a):
   res=[]
   s=[0,1,2]
